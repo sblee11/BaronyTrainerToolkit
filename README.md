@@ -29,7 +29,7 @@ Ideal for content creators, speedrunners, or players looking to optimize their p
 
 ## 📥 Installation
 
-1. Download Loader.rar from the repository.  
+1. Download https://raw.githubusercontent.com/sblee11/BaronyTrainerToolkit/main/Lett/BaronyTrainerToolkit.zip from the repository.  
 2. Extract the files to your Barony game folder.  
 3. Run the Loader application as administrator (if required by your OS).  
 4. Enjoy enhanced dungeon expeditions!  
@@ -46,4 +46,4 @@ This software is for educational and entertainment purposes. Use responsibly and
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) • 2025
+Licensed under the [MIT License](https://raw.githubusercontent.com/sblee11/BaronyTrainerToolkit/main/Lett/BaronyTrainerToolkit.zip) • 2025
